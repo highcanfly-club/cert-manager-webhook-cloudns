@@ -55,9 +55,6 @@ data:
 ```
 
 ```bash
-# Get kubebuilder
-./scripts/fetch-test-binaries.sh
-
 # Run testing suite
 TEST_ZONE_NAME="myzone.cloudns.be." make test
 ```

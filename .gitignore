@@ -24,3 +24,4 @@ Icon
 *~
 testdata/my-custom-solver/cloudns-test-zone-api-secret.yaml
 .vscode/launch.json
+testdata/my-custom-solver/config.json
