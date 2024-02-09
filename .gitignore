@@ -1,0 +1,26 @@
+.out/
+.creds/
+cert-manager-webhook-cloudns
+_values.yaml
+cloudns_old
+_old
+_test
+# Fichiers cachés macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icone
+Icon
+
+# Thumbnails
+._*
+
+# Fichiers qui pourraient apparaitre sur un système de fichiers externe
+.Spotlight-V100
+.Trashes
+
+# Fichiers de sauvegarde de l'éditeur de texte
+*~
+testdata/my-custom-solver/cloudns-test-zone-api-secret.yaml
+.vscode/launch.json

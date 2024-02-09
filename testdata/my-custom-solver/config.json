@@ -1,0 +1,9 @@
+{
+    "authId": "16355",
+    "authIdType": "auth-id",
+    "ttl": 3508,
+    "apiKeySecretRef":     {
+        "name": "cloudns-test-zone-api-secret",
+        "key": "apikey"
+    }
+}

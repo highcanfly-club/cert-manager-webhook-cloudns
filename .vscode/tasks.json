@@ -1,0 +1,11 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "set env",
+            "type": "shell",
+            "command": "export GOOS=$(go env GOOS) ; export GOARCH=$(go env GOARCH)",
+            "problemMatcher": []
+        }
+    ]
+}
